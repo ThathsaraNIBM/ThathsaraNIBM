@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...end to end IOT projects with AI ,research based project (with machines learning),
 - 📫 How to reach me ...kthathsaragalagoda2@gmail.com 
 - 😄 Pronouns: ...ha ha simply "male"
-- ⚡ Fun fact: ...my mind: if u say, u will never hire
 
 <!---
 ThathsaraNIBM/ThathsaraNIBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
